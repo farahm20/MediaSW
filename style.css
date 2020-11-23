@@ -1,0 +1,33 @@
+body{
+    background-color: #4C1205;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: #773e32fc;
+    padding: 0.5em;
+    min-height: 1.5em;
+}
+
+button {
+    background-color:#773e32fc;
+    padding: 0.8em 1em;
+    color: aliceblue;
+    border-radius: 10%;
+    font-weight: 400;
+}
+
+button:hover {
+    font-weight: bold;
+}
+
+.profile img {
+    width: 320px;
+    height: 320px;
+}
