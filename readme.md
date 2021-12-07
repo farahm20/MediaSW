@@ -1,3 +1,5 @@
+Instructions:
+
 1: Start with a local webserver with npm packet serve. 
     -> npx serve -p 5006
 2: we write npm project in packet json. Run this in new terminal
@@ -30,4 +32,3 @@ after surge is installed, press enter
 24: add deploy in package json. Deploy scriot is required when one publish on the internet
 25: write this in termninal to deploy "npm run deploy"
 26: Add recording buttons in html and hidden download button
-27: 
